@@ -1,0 +1,25 @@
+IP: 120.188.86.147
+ User-Agent: Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.105 Mobile Safari/537.36IP: 120.188.86.147
+ User-Agent: WhatsApp/2.19.34 AIP: 66.220.149.30
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 31.13.115.15
+ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0IP: 66.220.149.10
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 61.94.237.200
+ User-Agent: Mozilla/5.0 (Linux; Android 7.1.2; vivo 1611 Build/N2G47H; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.80 Mobile Safari/537.36 Instagram 98.0.0.15.119 Android (25/7.1.2; 480dpi; 1920x1080; vivo; vivo 1611; 1611; qcom; in_ID; 159526788)IP: 120.188.86.147
+ User-Agent: WhatsApp/2.19.34 AIP: 120.188.86.147
+ User-Agent: WhatsApp/2.19.34 AIP: 202.67.33.25
+ User-Agent: Mozilla/5.0 (Linux; Android 5.1.1; SM-J111F Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36IP: 202.67.33.25
+ User-Agent: Mozilla/5.0 (Linux; Android 5.1.1; SM-J111F Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36IP: 120.188.86.147
+ User-Agent: WhatsApp/2.19.34 AIP: 66.220.149.15
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 120.188.77.247
+ User-Agent: Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4A Build/N2G47H; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.105 Mobile Safari/537.36 Instagram 96.0.0.28.114 Android (25/7.1.2; 320dpi; 1280x720; Xiaomi; Redmi 4A; rolex; qcom; in_ID; 157405376)IP: 115.164.82.233
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; vivo 1820 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.110 Mobile Safari/537.36 Instagram 97.0.0.32.119 Android (27/8.1.0; 320dpi; 720x1436; vivo; vivo 1820; 1820; mt6762; ms_MY; 158441917)IP: 115.164.82.233
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; vivo 1820 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.110 Mobile Safari/537.36 Instagram 97.0.0.32.119 Android (27/8.1.0; 320dpi; 720x1436; vivo; vivo 1820; 1820; mt6762; ms_MY; 158441917)IP: 115.164.82.233
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; vivo 1820 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.110 Mobile Safari/537.36 Instagram 97.0.0.32.119 Android (27/8.1.0; 320dpi; 720x1436; vivo; vivo 1820; 1820; mt6762; ms_MY; 158441917)IP: 115.164.82.233
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; vivo 1820 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.110 Mobile Safari/537.36 Instagram 97.0.0.32.119 Android (27/8.1.0; 320dpi; 720x1436; vivo; vivo 1820; 1820; mt6762; ms_MY; 158441917)IP: 115.164.82.233
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; vivo 1820 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.110 Mobile Safari/537.36 Instagram 97.0.0.32.119 Android (27/8.1.0; 320dpi; 720x1436; vivo; vivo 1820; 1820; mt6762; ms_MY; 158441917)IP: 182.0.165.237
+ User-Agent: Mozilla/5.0 (Linux; Android 8.0.0; SM-G570Y Build/R16NW; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.157 Mobile Safari/537.36 Instagram 97.0.0.32.119 Android (26/8.0.0; 320dpi; 720x1280; samsung; SM-G570Y; on5xelte; samsungexynos7570; en_US; 158441906)IP: 66.220.149.48
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 120.188.83.56
+ User-Agent: Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4A Build/N2G47H; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.105 Mobile Safari/537.36 Instagram 98.0.0.15.119 Android (25/7.1.2; 320dpi; 720x1280; Xiaomi; Redmi 4A; rolex; qcom; in_ID; 159526784)IP: 180.246.148.102
+ User-Agent: Mozilla/5.0 (Linux; Android 7.0; SM-J330G Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/69.0.3497.100 Mobile Safari/537.36 Instagram 98.0.0.15.119 Android (24/7.0; 320dpi; 720x1280; samsung; SM-J330G; j3y17lte; samsungexynos7570; in_ID; 159526770)IP: 66.220.149.37
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 180.246.148.102
+ User-Agent: Mozilla/5.0 (Linux; Android 7.0; SM-J330G Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/69.0.3497.100 Mobile Safari/537.36 Instagram 98.0.0.15.119 Android (24/7.0; 320dpi; 720x1280; samsung; SM-J330G; j3y17lte; samsungexynos7570; in_ID; 159526770)
